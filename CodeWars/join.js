@@ -6,7 +6,7 @@ function abbrevName(name){
     initials[0] = initials[0][0]
     initials[1] = initials[1][0]
     
-    return initials[0]+'.'+initials[1];
+    return initials[0]+'.'+initials[1].toUpperCase();
      
 }
 
