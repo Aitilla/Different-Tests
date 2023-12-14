@@ -15,6 +15,6 @@ function abbrevName(name){
   
     var initials = name.split(' ').map((initial)=>initial[0]).join('.');
     
-    return initials
+    return initials.toUpperCase();
      
 }
