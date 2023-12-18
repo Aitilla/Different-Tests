@@ -1,3 +1,4 @@
+//Løsning 1
 function countPositivesSumNegatives(input) {
   
     var pos = 0;
