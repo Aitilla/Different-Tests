@@ -1,7 +1,5 @@
 class Test {
     public static void main(String[] args){
-        int tall1 = 1;
-        int tall2 = 2;
     
         String msg = "hallabal";
     
