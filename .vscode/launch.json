@@ -9,6 +9,13 @@
             "name": "Test",
             "request": "launch",
             "mainClass": "Test",
+            "projectName": "Different-Tests_a19cbc9a"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
             "projectName": "Different-Tests_27db7e0b"
         },
         {
